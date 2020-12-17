@@ -3,4 +3,6 @@
     <string name="inscripcion">Inscripcion</string>
     <string name="talleres">Talleres</string>
     <string name="reglamento">Reglamento</string>
+    <string name="textTalleres">Lista de talleres</string>
+    <string name="textviewreglamentos">Reglamentos</string>
 </resources>
