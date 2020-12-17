@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="519f9183-26ac-4a7a-b6e8-0d2c3410422a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ExamenParcial/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamenParcial/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenParcial/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamenParcial/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenParcial/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamenParcial/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenParcial/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="519f9183-26ac-4a7a-b6e8-0d2c3410422a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ExamenParcial" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="SvnConfiguration">

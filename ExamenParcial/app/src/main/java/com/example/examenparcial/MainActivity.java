@@ -9,6 +9,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
  Button btnLogin;
+ Button btnTalleres;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -21,5 +22,13 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(i);
             }
             });
+        btnTalleres = findViewById(R.id.button_talleres);
+        btnTalleres.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(MainActivity.this, Talleres.class);
+                startActivity(i);
+            }
+        });
     }
 }
