@@ -1,0 +1,14 @@
+Integrantes:
+Silvera Iñigo, Nathan Josue
+Vilca Rivera, Oscar Ernesto
+Gomez Flores, Elias
+Cruz Huanca, Jean carlos
+Ramos Machuca, Jose Orlando
+
+Repositorios:
+Primer commit: https://github.com/fullgold197/Examen-Parcial
+Segundo commit: https://github.com/eliasgomezflores/Examen-Parcial
+Tercer commit: https://github.com/agust-D2/Examen-Parcial
+Cuarto commit: https://github.com/jeancillo/PARCIAL
+Quinto commit: https://github.com/Orlandorm97/Examen-Parcial
+
